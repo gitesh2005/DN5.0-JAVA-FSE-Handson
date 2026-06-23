@@ -12,3 +12,5 @@ Exercise 4 - Adapter Pattern ✅
 Exercise 5 - Proxy Pattern ✅
 
 Exercise 6 - Decorator Pattern ✅
+
+Exercise 7 - Observer Pattern ✅
