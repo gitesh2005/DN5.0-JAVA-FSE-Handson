@@ -23,5 +23,6 @@ Exercise 10 - MVC Pattern ✅
 
 WEEK 2 ->
 
-Junit5
-AdvanceJunit5Testing
+Junit5 ✅
+
+AdvanceJunit5Testing ✅
