@@ -1,5 +1,6 @@
-package WEEK1.Junit5;
+package WEEK1.Junit5_BasicTesting_Exercise.SettingUp_JUnit.src.test.java;
 
+import WEEK1.Junit5_BasicTesting_Exercise.SettingUp_JUnit.src.main.java.calculator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,4 @@
-package WEEK1.Junit5;
+package WEEK1.Junit5_BasicTesting_Exercise.Assertions_JUnit.src.test.java;
 
 import org.junit.jupiter.api.Test;
 
