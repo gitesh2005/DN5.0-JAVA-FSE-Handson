@@ -1,37 +1,40 @@
 # DN5.0-JAVA-FSE-Handson
 
-This repository contains the mandatory hands-on exercises completed as part of the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (FSE)** training program.
+This repository contains my solutions for the Cognizant Digital Nurture 5.0 Java FSE mandatory hands-on exercises.
 
 ## Repository Structure
 
-### WEEK 1
-- Data Structures
+### WEEK1
+
+- Data_Structure
     - E-commerce Platform Search Function
     - Financial Forecasting
-- Design Patterns
+
+- DesignPattern
     - Singleton Pattern
     - Factory Method Pattern
-- JUnit 5 Basic Testing
-- Mockito Hands-on
-- PL/SQL Programming
-- SLF4J Logging Exercise
 
-### WEEK 2
-- Spring Core & Maven
-    - Exercise 1 – Configuring a Basic Spring Application
-    - Exercise 2 – Dependency Injection
-    - Exercise 4 – Creating and Configuring a Maven Project
+- Junit5_BasicTesting_Exercise
+    - Setting Up JUnit
+    - Assertions in JUnit
+    - Arrange-Act-Assert (AAA) Pattern
+
+- Mockito_HandOn_Exercise
+    - Mocking and Stubbing
+    - Verifying Interactions
+
+- SLF4J_Logging_Exercise
+    - Logging Error Messages and Warning Levels
 
 ## Technologies Used
 
 - Java
 - Maven
-- Spring Framework
 - JUnit 5
 - Mockito
-- PL/SQL
-- MySQL
-- Git & GitHub
+- SLF4J
+- Git
+- GitHub
 
 ## Author
 
