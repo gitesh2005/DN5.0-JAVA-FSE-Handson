@@ -36,6 +36,7 @@ This repository contains my solutions for the Cognizant Digital Nurture 5.0 Java
 
 - Spring_Core_Maven
     - Exercise 1: Configuring a Basic Spring Application
+    - Exercise 2: DependencyInjection
 
 ## Technologies Used
 
