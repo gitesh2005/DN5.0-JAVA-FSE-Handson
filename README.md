@@ -30,10 +30,18 @@ This repository contains my solutions for the Cognizant Digital Nurture 5.0 Java
     - Control Structures (IF-ELSE, CASE, LOOP)
     - Stored Procedures (Procedure creation and execution)
 
+---
+
+### WEEK2
+
+- Spring_Core_Maven
+    - Exercise 1: Configuring a Basic Spring Application
+
 ## Technologies Used
 
 - Java
 - Maven
+- Spring Core
 - JUnit 5
 - Mockito
 - SLF4J
