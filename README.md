@@ -1,6 +1,6 @@
 # DN5.0-JAVA-FSE-Handson
 
-This repository contains my solutions for the Cognizant Digital Nurture 5.0 Java FSE mandatory hands-on exercises.
+This repository contains my solutions for the Cognizant Digital Nurture 5.0 Java Full Stack Engineer (FSE) mandatory hands-on exercises.
 
 ## Repository Structure
 
@@ -26,6 +26,10 @@ This repository contains my solutions for the Cognizant Digital Nurture 5.0 Java
 - SLF4J_Logging_Exercise
     - Logging Error Messages and Warning Levels
 
+- PL_SQL_Programming
+    - Control Structures (IF-ELSE, CASE, LOOP)
+    - Stored Procedures (Procedure creation and execution)
+
 ## Technologies Used
 
 - Java
@@ -33,8 +37,9 @@ This repository contains my solutions for the Cognizant Digital Nurture 5.0 Java
 - JUnit 5
 - Mockito
 - SLF4J
-- Git
-- GitHub
+- PL/SQL
+- MySQL
+- Git & GitHub
 
 ## Author
 
