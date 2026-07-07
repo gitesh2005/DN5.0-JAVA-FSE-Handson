@@ -53,6 +53,6 @@ This repository contains my solutions for the Cognizant Digital Nurture 5.0 Java
 
 ## Author
 
-**Gitesh Sorout**
+**Gitesh**
 
 GitHub: https://github.com/gitesh2005
