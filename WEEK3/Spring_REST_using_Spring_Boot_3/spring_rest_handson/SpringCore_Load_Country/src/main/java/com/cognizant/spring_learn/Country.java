@@ -1,4 +1,4 @@
-package com.cognizant.SpringCoreLoadCountry;
+package com.cognizant.spring_learn;
 
 
 
@@ -38,6 +38,6 @@ public class Country {
 
     @Override
     public String toString() {
-        return "Country [code=" + code + ", name=" + name + "]";
+        return "Country [code=" + getCode() + ", name=" + getName() + "]";
     }
 }
