@@ -39,6 +39,16 @@ This repository contains my solutions for the Cognizant Digital Nurture 5.0 Java
     - Exercise 2: DependencyInjection
     - Exercise 4: LibraryManagement
 
+- Spring_Data_JPA_Hibernate
+     - Doc file of diff of JPA , Hibernate , Spring Data JPA
+
+
+### WEEK3
+
+-Spring_REST_using_Spring_Boot_3
+    -spring_rest_handson
+       -spring_learn
+
 ## Technologies Used
 
 - Java
