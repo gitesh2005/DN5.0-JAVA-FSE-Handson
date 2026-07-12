@@ -6,27 +6,27 @@ This repository contains my solutions for the Cognizant Digital Nurture 5.0 Java
 
 ### WEEK1
 
-- Data_Structure
+- **Data_Structure**
     - E-commerce Platform Search Function
     - Financial Forecasting
 
-- DesignPattern
+- **DesignPattern**
     - Singleton Pattern
     - Factory Method Pattern
 
-- Junit5_BasicTesting_Exercise
+- **Junit5_BasicTesting_Exercise**
     - Setting Up JUnit
     - Assertions in JUnit
     - Arrange-Act-Assert (AAA) Pattern
 
-- Mockito_HandOn_Exercise
+- **Mockito_HandOn_Exercise**
     - Mocking and Stubbing
     - Verifying Interactions
 
-- SLF4J_Logging_Exercise
+- **SLF4J_Logging_Exercise**
     - Logging Error Messages and Warning Levels
 
-- PL_SQL_Programming
+- **PL_SQL_Programming**
     - Control Structures (IF-ELSE, CASE, LOOP)
     - Stored Procedures (Procedure creation and execution)
 
@@ -34,26 +34,31 @@ This repository contains my solutions for the Cognizant Digital Nurture 5.0 Java
 
 ### WEEK2
 
-- Spring_Core_Maven
+- **Spring_Core_Maven**
     - Exercise 1: Configuring a Basic Spring Application
-    - Exercise 2: DependencyInjection
-    - Exercise 4: LibraryManagement
+    - Exercise 2: Dependency Injection
+    - Exercise 4: Library Management
 
-- Spring_Data_JPA_Hibernate
-     - Doc file of diff of JPA , Hibernate , Spring Data JPA
+- **Spring_Data_JPA_Hibernate**
+    - Doc file comparing JPA, Hibernate, and Spring Data JPA
 
+---
 
 ### WEEK3
 
--Spring_REST_using_Spring_Boot_3
-    -spring_rest_handson
-       -spring_learn
+- **Spring_REST_using_Spring_Boot_3**
+    - **spring_rest_handson**
+        - **Spring_Core_Load_Country** — Loads country bean data from Spring XML configuration
+        - **spring_learn** — Spring Boot Web project
+            - Hello World RESTful web service (`GET /hello`)
 
 ## Technologies Used
 
 - Java
 - Maven
 - Spring Core
+- Spring Boot
+- Spring Web (REST)
 - JUnit 5
 - Mockito
 - SLF4J
