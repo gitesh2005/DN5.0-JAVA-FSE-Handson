@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- FIX: Changed root tag from 'bean' to 'beans' -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="
+           http://www.springframework.org/schema/beans
+           https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Commented out code blocks are structurally fine -->
+    <!--
+    <bean id="emp1" class="com.example.model.Employee">
+        <property name="id" value="121"/>
+        <property name="name" value="gitesh"/>
+        <property name="email" value="gitesh@gmail.com"/>
+    </bean>
+    <bean id="emp2" class="com.example.model.Employee" p:name="gitu"
+          p:email="sahil@gamil.com" p:id="102"/>
+    -->
+
+    <!-- FIX: Corrected constructor attributes and class reference -->
+    <bean id="emp2" class="com.example.model.Employee1">
+        <!-- index 0 must match parameter 0 (int) -->
+        <constructor-arg name="id" value="232" type="int" index="0"/>
+        <!-- index 1 must match parameter 1 (String) -->
+        <constructor-arg name="name" value="rahul" type="java.lang.String" index="1"/>
+        <!-- index 2 must match parameter 2 (String) -->
+        <constructor-arg name="email" value="git@gmail.com" type="java.lang.String" index="2"/>
+    </bean>
+
+
+</beans> <!-- FIX: Changed closing tag to match the root 'beans' -->
